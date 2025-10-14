@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.homepage      = 'https://wefit.com.br'
   spec.author        = { 'Gabriel Milhomem Cunha' => 'gabriel.milhomem@wefit.com.br' }
   spec.license       = { :type => 'MIT', :file => 'LICENSE' }
-  spec.source        = { :git => '', :tag => spec.version.to_s }
+  spec.source        = { :git => 'https://github.com/wefit-gabriel-milhomem/rock-app-podspec.git', :tag => spec.version.to_s }
 
   spec.swift_version = '5.0'
   spec.platform      = :ios, '15.1'
@@ -16,6 +16,5 @@ Pod::Spec.new do |spec|
     "Frameworks/ReactBrownfield.xcframework",
     "Frameworks/TestRockAppReact.xcframework",
   ]
-
 
 end
