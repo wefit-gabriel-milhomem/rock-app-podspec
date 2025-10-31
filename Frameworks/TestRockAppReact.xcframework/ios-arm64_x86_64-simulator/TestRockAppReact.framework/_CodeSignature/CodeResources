@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/TestRockAppReact.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TJGkBu5rlyxxAQZwexJeyNELqpY=
+		2y1ARBlZf5bVEjBai+9wGLbqZ5c=
 		</data>
 		<key>Modules/TestRockAppReact.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/TestRockAppReact.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lFGeoRkTV1LSE9+nhCL5bMP7qrE=
+		bFuwlgmHZd8pygZ6FbcLq6zuLbI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -83,6 +83,14 @@
 		<key>RCT-Folly_privacy.bundle/Info.plist</key>
 		<data>
 		bXoDC2c04QjgJmiZpNMUIyMOoJM=
+		</data>
+		<key>RNCAsyncStorage_resources.bundle/Info.plist</key>
+		<data>
+		P8pV8Ac/NatRUJpIfTifXF+YtxE=
+		</data>
+		<key>RNCAsyncStorage_resources.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		sPDfyCwXVFwSP8cGRWRskpblWgM=
 		</data>
 		<key>RNImagePickerPrivacyInfo.bundle/Info.plist</key>
 		<data>
@@ -182,7 +190,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		7ljDTbMJCriqQE8I8SRK/ggmKqo=
+		wTZE5dMeOuzA3bJr64/E0vM2AmQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -268,7 +276,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x9RW3o7tzPMTB+YXyRW6HE0RWrBUIDkfFQp0TztF+qs=
+			cYTahIzdEEamAHDmm94FfBgvtq2XqvdmsaLllOoozV0=
 			</data>
 		</dict>
 		<key>Modules/TestRockAppReact.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -303,7 +311,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aOC2ZROFe9MMeGu1wF9UH6f+x5KisLT2h6bjgUMVVEY=
+			f+ViyiTgHr5l1X8ONMBCNjwYfXb+idrkVkXD8hM7KSc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -318,6 +326,20 @@
 			<key>hash2</key>
 			<data>
 			aBuZomYTz/vkPdp7HXYLFQCNkY39u6bLVJ2iy1OKWpo=
+			</data>
+		</dict>
+		<key>RNCAsyncStorage_resources.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7uQbmCNz06Q7U/oimS+2SracDYyijfK/x5hKYGahmGU=
+			</data>
+		</dict>
+		<key>RNCAsyncStorage_resources.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CxKH0OaGz4Z9ONl8yl3GlLMCnyfE/kJw3UvS/VRYovA=
 			</data>
 		</dict>
 		<key>RNImagePickerPrivacyInfo.bundle/Info.plist</key>
@@ -492,7 +514,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hBqxxwT6ForK4perjoUlAJ+3U4w8nLdI8osg82fKhA0=
+			2xLlJzbKaY5g9WwPL7R3YIUWHoand34Ode4DXi1uZYw=
 			</data>
 		</dict>
 	</dict>
