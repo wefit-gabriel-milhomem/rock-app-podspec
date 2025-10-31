@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name          = 'RockApp'
-  spec.version       = '0.0.1'
+  spec.version       = '0.0.2'
   spec.summary       = 'RockApp summary'
   spec.description   = 'RockApp description'
   spec.homepage      = 'https://github.com/wefit-gabriel-milhomem/rock-app-podspec.git'
